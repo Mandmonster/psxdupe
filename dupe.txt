@@ -1,0 +1,2 @@
+_G.Key = "mand_monster"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PetSimX/main/Mel"))()
